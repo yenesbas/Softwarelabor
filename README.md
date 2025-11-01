@@ -14,6 +14,7 @@ Softwarelabor/
 ├── Aufgabe 2/          # Dynamische Arrays in C++
 ├── Aufgabe 3/          # Parser und AST für arithmetische Ausdrücke
 ├── Aufgabe 3b/         # Erweiterung mit Stack-basierter VM
+│   └── gcc/            # VM-Implementierungsdateien
 ├── Aufgabe3bb/         # Weitere VM-Implementierung
 └── README.md           # Diese Datei
 ```
