@@ -178,7 +178,7 @@ Dieses Labor behandelt folgende wichtige Konzepte der Informatik:
 
 ## 👨‍💻 Autor
 
-**Yenes Bas**  
+**Yusuf Enes Basgöncü**  
 Hochschule Karlsruhe - Technik und Wirtschaft  
 Softwarelabor
 
